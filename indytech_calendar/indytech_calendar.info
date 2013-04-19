@@ -1,4 +1,4 @@
-name = Calendar
+name = Indytech Calendar
 description = Event Calendar
 core = 7.x
 package = Indytech

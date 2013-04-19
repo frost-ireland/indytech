@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * Code for the Calendar feature.
+ * Code for the Indytech Calendar feature.
  */
 
 include_once 'indytech_calendar.features.inc';
